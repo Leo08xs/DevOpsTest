@@ -1,0 +1,14 @@
+using System;
+
+{
+    // Marcell
+    // B83538
+    class Main
+    {
+        public String Mensaje()
+        {
+            String mensaje = "Hola, buenos dias";
+            return mensaje;
+        }
+    }
+}
